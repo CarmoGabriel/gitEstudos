@@ -1,1 +1,2 @@
 texto teste meu querido 
+NESTE ARQUIVO IREI LISTAR OS COMANDOS GIT 
